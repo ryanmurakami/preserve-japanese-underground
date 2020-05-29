@@ -24,26 +24,26 @@
         "id": "1097c7f13aff3346",
         "type": "leaf",
         "dimension": null,
-        "active": true,
+        "active": false,
         "master": "13b9265d939c8582",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Bands/Bluebeard.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "26dd939432af163e",
+        "id": "a124f3aac3b84512",
         "type": "leaf",
         "dimension": null,
-        "active": false,
+        "active": true,
         "master": "1097c7f13aff3346",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Band List.md",
+            "file": "Bands/Bluebeard.md",
             "mode": "preview"
           }
         }
@@ -51,11 +51,11 @@
     ]
   },
   "lastOpenFiles": [
+    "Bands/Bluebeard.md",
     "Band List.md",
     "README.md",
     "Bands/Balloons.md",
-    "Bands/Nine Days Wonder.md",
-    "Obsidian Help/How to/Folding.md"
+    "Bands/Nine Days Wonder.md"
   ],
   "alwaysUpdateLinks": true
 }
