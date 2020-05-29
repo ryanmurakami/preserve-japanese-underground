@@ -1,0 +1,46 @@
+{
+  "pluginEnabledStatus": {
+    "File explorer": true,
+    "Search": true,
+    "Quick switcher": true,
+    "Graph view": true,
+    "Backlinks": true,
+    "Command palette": true,
+    "Markdown format importer": true,
+    "Word count": true
+  },
+  "isSidebarCollapsed": false,
+  "isRightSidedockCollapsed": false,
+  "lastOpenSidebarTab": "File explorer",
+  "lastOpenRightSidedockTab": "Backlinks",
+  "theme": "obsidian",
+  "workspaceLayout": {
+    "id": "27da72c5a67b40f2",
+    "type": "split",
+    "dimension": null,
+    "direction": "vertical",
+    "children": [
+      {
+        "id": "1097c7f13aff3346",
+        "type": "leaf",
+        "dimension": null,
+        "active": true,
+        "master": "13b9265d939c8582",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Bands/Sora.md",
+            "mode": "source"
+          }
+        }
+      }
+    ]
+  },
+  "lastOpenFiles": [
+    "Bands/Balloons.md",
+    "Band List.md",
+    "Bands/Nine Days Wonder.md",
+    "Obsidian Help/How to/Folding.md"
+  ],
+  "alwaysUpdateLinks": true
+}
