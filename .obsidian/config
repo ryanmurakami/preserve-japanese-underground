@@ -29,16 +29,31 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bands/Sora.md",
+            "file": "README.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "26dd939432af163e",
+        "type": "leaf",
+        "dimension": null,
+        "active": false,
+        "master": "1097c7f13aff3346",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Band List.md",
+            "mode": "preview"
           }
         }
       }
     ]
   },
   "lastOpenFiles": [
-    "Bands/Balloons.md",
     "Band List.md",
+    "README.md",
+    "Bands/Balloons.md",
     "Bands/Nine Days Wonder.md",
     "Obsidian Help/How to/Folding.md"
   ],
