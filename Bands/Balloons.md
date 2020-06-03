@@ -1,5 +1,7 @@
  # Balloons
  
+ ![[Pasted image 1.png]]
+ 
  ## Bio
  [Balloons](https://www.balloons.jp/) started playing in the mid-90's, but didn't release their first album until 2003 on [[Stiff Slack]]. In 2005 they did a two-week tour of the East Coast USA, which coincided with a re-release of their debut album on 31knots' label [54º40' or Fight!](http://www.fiftyfourfortyorfight.com/)  Since then, they're released two more albums in Japan, jumping to different labels for each one. They're currently pretty big in Japan, for an independent band, headlining shows with Toe and the like.
  

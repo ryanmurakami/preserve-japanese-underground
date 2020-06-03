@@ -1,5 +1,7 @@
  # Bluebeard
  
+ ![[Pasted image.png]]
+ 
  ## Bio
  
  Bluebeard started playing around the mid to late 90's. There's honestly almost no information on them to be found, so I don't know that much. They released a 7" in 1999, a split with [[Nine Days Wonder]] the same year, and their amazing self-titled EP in 2001. After they broke up, the guitarist/vocalist formed [[As Meias]] and the other guitarist went on to play in [[Naht]] and [[Turtle Island]]. Here's a [Japanese page with a sort of history of the band.](http://www.sol.dti.ne.jp/~kinta-99/bluebeard.html)

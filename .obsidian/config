@@ -29,13 +29,13 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bands/Bluebeard.md",
+            "file": "Magazines/Doll Magazine.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "a124f3aac3b84512",
+        "id": "c06260e45f2cd009",
         "type": "leaf",
         "dimension": null,
         "active": true,
@@ -43,7 +43,21 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bands/Bluebeard.md",
+            "file": "Magazines/Doll Magazine.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "d27d06734ff387e9",
+        "type": "leaf",
+        "dimension": null,
+        "active": false,
+        "master": "1097c7f13aff3346",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Magazine List.md",
             "mode": "preview"
           }
         }
@@ -51,11 +65,12 @@
     ]
   },
   "lastOpenFiles": [
-    "Bands/Bluebeard.md",
-    "Band List.md",
-    "README.md",
-    "Bands/Balloons.md",
-    "Bands/Nine Days Wonder.md"
+    "Magazines/Doll Magazine.md",
+    "Magazine List.md",
+    "Magazines/Eat Magazine.md",
+    "Bands/Beirut 5.md",
+    "Bands/Balloons.md"
   ],
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Images"
 }
