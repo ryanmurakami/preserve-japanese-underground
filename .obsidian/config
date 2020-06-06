@@ -10,7 +10,7 @@
     "Word count": true
   },
   "isSidebarCollapsed": false,
-  "isRightSidedockCollapsed": false,
+  "isRightSidedockCollapsed": true,
   "lastOpenSidebarTab": "File explorer",
   "lastOpenRightSidedockTab": "Backlinks",
   "theme": "obsidian",
@@ -21,55 +21,27 @@
     "direction": "vertical",
     "children": [
       {
-        "id": "1097c7f13aff3346",
-        "type": "leaf",
-        "dimension": null,
-        "active": false,
-        "master": "13b9265d939c8582",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Magazines/Doll Magazine.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "c06260e45f2cd009",
+        "id": "7fe2c1dd46d738da",
         "type": "leaf",
         "dimension": null,
         "active": true,
-        "master": "1097c7f13aff3346",
+        "master": "",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Magazines/Doll Magazine.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "d27d06734ff387e9",
-        "type": "leaf",
-        "dimension": null,
-        "active": false,
-        "master": "1097c7f13aff3346",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Magazine List.md",
-            "mode": "preview"
+            "file": "Bands/Melt-Banana.md",
+            "mode": "source"
           }
         }
       }
     ]
   },
   "lastOpenFiles": [
-    "Magazines/Doll Magazine.md",
-    "Magazine List.md",
+    "Melt-Banana.md",
     "Magazines/Eat Magazine.md",
-    "Bands/Beirut 5.md",
-    "Bands/Balloons.md"
+    "Echo.md",
+    "Husking Bee.md",
+    "Magazines/Doll Magazine.md"
   ],
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "Images"

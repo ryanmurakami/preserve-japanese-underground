@@ -1,10 +1,13 @@
- # Gauge Means Nothing
+# Gauge Means Nothing
  
- ## Bio
+## Bio
  
- ## Members
+## Members
  
- ## Discography
+## Discography
  
- ## Links
- 
+## Links
+
+## Related Bands
+
+## References

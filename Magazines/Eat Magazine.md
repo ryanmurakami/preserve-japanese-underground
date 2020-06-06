@@ -1,7 +1,7 @@
 # Eat Magazine
 ## Overview
 
-## Issue List with Notable Articles
+## Issue List with Notable Features
 
 ### 30 - Nov/Dec 1999
 - Interview with [[Husking Bee]]
