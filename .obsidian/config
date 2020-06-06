@@ -29,7 +29,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bands/Melt-Banana.md",
+            "file": "Magazines/Doll Magazine.md",
             "mode": "source"
           }
         }
@@ -37,11 +37,11 @@
     ]
   },
   "lastOpenFiles": [
+    "Magazines/Doll Magazine.md",
     "Melt-Banana.md",
     "Magazines/Eat Magazine.md",
     "Echo.md",
-    "Husking Bee.md",
-    "Magazines/Doll Magazine.md"
+    "Husking Bee.md"
   ],
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "Images"
