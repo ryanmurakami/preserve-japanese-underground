@@ -3,6 +3,17 @@
 
 ## Issue List with Notable Features
 
+### 15 - May/Jun 1997
+- [[Husking Bee]] USA Live Report
+- Interview with [[Hi-Standard]]
+
+### 27 - 
+- Interview with [[Hi-Standard]]
+- Interview with [[Hellchild]]
+- Interview with [[Wrench]]
+- Interview with [[John Holmez]]
+- Interview with [[No Choice In This Matter]]
+
 ### 30 - Nov/Dec 1999
 - Interview with [[Husking Bee]]
 - Reviews
